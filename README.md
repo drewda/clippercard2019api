@@ -33,3 +33,4 @@ Signers
 -------
 
 * Drew Dara-Abrams (lives in Burlingame; works in San Francisco; rides BART, Caltrain, MUNI, Samtrans)
+* Trent Oswald - @therebelrobot - (moving to SF; Works in San Francisco; Rides BART/Muni/Caltrain)
